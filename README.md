@@ -66,4 +66,4 @@ El archivo CSV generado se llama `comparativas.csv` y contiene los siguientes ca
 
 ## Licencia
 
-MIT
+GPL
